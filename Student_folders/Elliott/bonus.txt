@@ -1,0 +1,17 @@
+Github:
+	User: Remdul
+	Active: Jan 2012
+
+	Apps of note:
+		pyChatClient
+		Enigma Machine
+
+
+Bitbucket:
+	User: Remdul
+	Active: Mar 2015
+	
+	Apps of note:
+		I think everything is private on here, however I can show some
+		Windows Kernel Programming (filesystem drivers) process and some
+		video games I've designed.
